@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Miniflask"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "template",
+		"git.ignoreLimitWarning": true
+	}
+}
